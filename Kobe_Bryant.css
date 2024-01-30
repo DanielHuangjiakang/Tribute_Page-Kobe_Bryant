@@ -1,0 +1,99 @@
+main {
+    background:#eee;
+    margin: 1rem;
+    padding: 1rem 4rem;
+    border-radius: 5px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#title {
+    font-size: 3.5rem;
+    margin-bottom: 0;
+}
+
+#nickname {
+    margin-top: 0;
+    font-weight: 400;
+}
+
+#img-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: RGB(85, 37, 130);
+    color: black;
+    padding: 1em 3em;
+    border-radius: 5px;
+    width: 80vw;
+}
+
+#image {
+    border-radius: 5px;
+    border: 8px solid RGB(85, 37, 130);
+    max-height: 90vh;
+    max-width: 80vw;
+}
+
+.img-caption {
+    display: flex;
+    align-items: center;
+    max-height: 90vh;
+    max-width: 40em;
+    font-size: 15px;
+    color: RGB(253, 185, 39);
+    font-weight: bold;
+}
+
+#tribute-paragraph {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+li {
+    margin-bottom: 15px;
+}
+
+#timeline-div {
+    padding-left: 2.5em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#comment {
+    margin-top: 10px;
+    max-width: 50em;
+    padding-left: 20px;
+
+}
+
+#link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 40px;
+}
+
+a {
+    color: rgb(24, 74, 155);
+    }
+
+a:hover {
+    color: brown;
+  }
+
+a:active {
+    color: rgb(24, 74, 155);
+}
