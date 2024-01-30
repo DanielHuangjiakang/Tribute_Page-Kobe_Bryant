@@ -97,3 +97,12 @@ a:hover {
 a:active {
     color: rgb(24, 74, 155);
 }
+
+.box {
+    transition: all 0.4s; 
+}
+ 
+.box:hover {
+    box-shadow: 0 8px 8px 0 white;  
+    transform: translate(0, -30px); 
+}
