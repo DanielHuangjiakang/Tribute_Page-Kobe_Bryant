@@ -3,7 +3,7 @@
 ## For Kobe Bryant
 
 ## Link to the project
-https://danielhuangjiakang.github.io/WarehouseSystemSurveyForm/
+https://danielhuangjiakang.github.io/Tribute_Page-Kobe_Bryant/
 
 ## UI Screenshot
 
