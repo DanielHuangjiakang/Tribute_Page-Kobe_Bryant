@@ -1,3 +1,3 @@
-# Tribute_Page-Kobe_bryant
+# Tribute Page Kobe Bryant
 
 ## For Kobe Bryant
